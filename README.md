@@ -22,7 +22,7 @@ Developer Back-end
 ## 📫 Conecte-se comigo  
 
 
-[![LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ronildo/)  
+[!][LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ronildo/)  
 
                     
                  
