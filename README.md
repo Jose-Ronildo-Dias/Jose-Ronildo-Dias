@@ -24,4 +24,4 @@ Developer Back-end
 
                     
                  
-![icons8-linkedin](https://www.linkedin.com/in/jos%C3%A9-ronildo/)
+[!][(https://www.linkedin.com/in/jos%C3%A9-ronildo/)]
