@@ -4,13 +4,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer Back-end
 ------------------
 
-Profissional com sólida experiência no atendimento ao público e em transição para a área de tecnologia. Atualmente, curso o segundo semestre de Análise e Desenvolvimento de Sistemas na Unopar Anhanguera, aprimorando minhas habilidades técnicas e analíticas. Tenho facilidade em aprender novas tecnologias e trabalhar em equipe, sempre buscando aperfeiçoamento contínuo. Sou um profissional determinado, comunicativo e proativo, sempre disposto a enfrentar novos desafios e a evoluir na área de tecnologia. Busco oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores.
+# 👋 Olá, eu sou José Ronildo!
 
-*   🌍  I'm based in Americana- SP
-*   ✉️  You can contact me at [joseronidias@outlook.com](mailto:joseronidias@outlook.com)
-*   ⚡  A verdade é que... eu sou o homem de ferro!### Skills 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-                    </p>
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Unopar Anhanguera (2º semestre).  
+💻 Em transição para a área de tecnologia, com foco em **desenvolvimento backend**.  
+📌 Atualmente aprimorando meus conhecimentos em **Java** e **Kotlin**.  
+📊 Experiência anterior com **atendimento ao público** e domínio do **Pacote Office**.  
+
+### 🚀 Habilidades & Tecnologias:
+- 💡 Lógica de programação  
+- 🔹 Java | Kotlin  
+- 🗄️ Bancos de dados (SQL)  
+- 🔧 Ferramentas: Git, GitHub, VS Code, IntelliJ IDEA  
+
+### 🌱 Buscando aprender:
+- 🏗️ Arquitetura de Software  
+- ☁️ Cloud Computing  
+- ⚡ Boas práticas e padrões de código  
+
+📫 Vamos nos conectar?  
+[![LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ronildo/)  
+
                     
                  
