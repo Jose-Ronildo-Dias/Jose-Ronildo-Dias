@@ -22,6 +22,7 @@ Developer Back-end
 ## 📫 Conecte-se comigo  
 
 
+![Uploading icons8-linkedin.svg…]()
 [!][LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ronildo/)  
 
                     
