@@ -2,25 +2,26 @@
 Developer Back-end
 ------------------
 
-# 👋 Olá, eu sou José Ronildo!
+# 👋 Olá! Eu sou José Ronildo  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Unopar Anhanguera (2º semestre).  
-💻 Em transição para a área de tecnologia, com foco em **desenvolvimento backend**.  
-📌 Atualmente aprimorando meus conhecimentos em **Java** e **Kotlin**.  
-📊 Experiência anterior com **atendimento ao público** e domínio do **Pacote Office**.  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Unopar Anhanguera (2º semestre), em transição para a área de tecnologia.  
+💻 Atualmente me especializando em **Java** e **Kotlin**, com foco no desenvolvimento backend.  
+🚀 Apaixonado por tecnologia, desafios e aprendizado contínuo.  
 
-### 🚀 Habilidades & Tecnologias:
-- 💡 Lógica de programação  
-- 🔹 Java | Kotlin  
-- 🗄️ Bancos de dados (SQL)  
-- 🔧 Ferramentas: Git, GitHub, VS Code, IntelliJ IDEA  
+## 🛠️ Tecnologias & Habilidades  
+- **Linguagens:** Java, Kotlin  
+- **Banco de Dados:** SQL  
+- **Ferramentas:** Git, GitHub, IntelliJ IDEA, VS Code, Pacote Office  
+- **Outras Competências:** Lógica de programação  
 
-### 🌱 Buscando aprender:
-- 🏗️ Arquitetura de Software  
-- ☁️ Cloud Computing  
-- ⚡ Boas práticas e padrões de código  
+## 🎯 Objetivos  
+📌 Desenvolver aplicações robustas e escaláveis utilizando boas práticas de programação.  
+📌 Aprimorar conhecimentos em **arquitetura de software**, **padrões de design** e **Cloud Computing**.  
+📌 Contribuir com projetos open-source e construir soluções eficientes para problemas do dia a dia.  
 
-📫 Vamos nos conectar?  
+## 📫 Conecte-se comigo  
+
+
 [![LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ronildo/)  
 
                     
