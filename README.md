@@ -4,7 +4,7 @@ Developer Back-end
 
 # 👋 Olá! Eu sou José Ronildo  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Unopar Anhanguera (3º semestre), em transição para a área de tecnologia.  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Unopar Anhanguera (4º semestre), em transição para a área de tecnologia.  
 💻 Atualmente me especializando em **Java** e seus frameworks como **Spring Boot**, com foco no desenvolvimento backend.  
 🚀 Apaixonado por tecnologia, desafios e aprendizado contínuo.  
 
